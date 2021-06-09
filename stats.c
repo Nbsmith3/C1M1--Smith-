@@ -10,7 +10,7 @@
  *****************************************************************************/
 /**
  * @file <stats.c> 
- * @brief <Implementation File>
+ * @brief <Implementation file >
  *
  * <Add Extended Description Here>
  *
@@ -36,10 +36,8 @@ void main() {
                                 7,  87, 250, 230,  99,   3, 100,  90};
 
   /* Other Variable Declarations Go Here */
+  /* Statistics and Printing Functions Go Here */
 
-  /* Statistics and Printing Functions Go here */
-}
-  
 }
 
 /* Add other Implementation File Code Here */
