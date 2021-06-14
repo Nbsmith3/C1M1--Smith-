@@ -9,6 +9,7 @@
  *
  *****************************************************************************/
 /**
+<<<<<<< HEAD
  * @file <stats.h> 
  * @brief <Header file>
  *
@@ -16,6 +17,15 @@
  *
  * @author <Nathan Smith>
  * @date <June 8 2021>
+=======
+ * @file <Add File Name> 
+ * @brief <Add Brief Description Here >
+ *
+ * <Add Extended Description Here>
+ *
+ * @author <Add FirsName LastName>
+ * @date <Add date >
+>>>>>>> dev_c1m1
  *
  */
 #ifndef __STATS_H__
